@@ -4,3 +4,4 @@
 2. Lesson3 "Basic Operations of Numbers and Strings"
 3. Lesson4 "Basic Operations on Ordered Lists - List, Tuple"
 4. Lesson5 "Basic Operations on Sets and Dictionaries - Set, Dictionary"
+5. Lesson5 "Control Flow: Conditional Statements - if"
