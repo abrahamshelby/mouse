@@ -6,3 +6,4 @@
 4. Lesson5 "Basic Operations on Sets and Dictionaries - Set, Dictionary"
 5. Lesson6 "Control Flow: Conditional Statements - if"
 6. Lesson7 "Control Flow: Basic Looping - while Loop, for Loop"
+7. Lesson8 "Process control: advanced loop control, break, continue, else instructions"
