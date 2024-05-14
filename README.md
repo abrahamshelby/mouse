@@ -1,5 +1,5 @@
 # Mouse
-  It is a elementary project for a new college student who major in CS. I am preparing for my college entrance meeting. 0.0 0..0
+  It is a elementary project for a new college student who major in CS. I am preparing for my college entrance meeting.
 1. Lesson1 and lesson2 were introducing what python was, so i did not make projects.
 2. Lesson3 "Basic Operations of Numbers and Strings"
 3. Lesson4 "Basic Operations on Ordered Lists - List, Tuple"
