@@ -1,0 +1,13 @@
+let index = 0
+let numbers = [1, 2, 3, 4, 5, 6]
+
+basic.forever(function () {
+    if (numbers.length > 0) {
+        index = randint(0, numbers.length - 1)
+        basic.showNumber(numbers[index])
+        numbers.removeAt(index)
+    } else {
+        basic.showIcon(IconNames.Happy)
+        numbers = [1, 2, 3, 4, 5, 6]
+    }
+})
